@@ -27,6 +27,7 @@ git clone https://github.com/your_username/EmbMapAnalyzer.git
 
 # 2. 运行脚本（示例）
 python map_analyzer.py --input firmware.map --format console
+```
 
 # 📋输出示例
 
